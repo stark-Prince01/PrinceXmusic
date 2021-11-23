@@ -88,6 +88,8 @@ $ python3 -m PrinceXmusic
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
+- `/truth` - sends you a truth
+- `/dare` - sends you a dare
 
 ### Admins only 🏅
 - `/player` - open music player settings panel
@@ -127,6 +129,7 @@ If you donlt like to play in linked channel:
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
+- `/sysinfo` - get the information about the system where you music bot is hosted
 
 ### PMpermit
 - `.a` - approove someone to pm you
